@@ -2,7 +2,7 @@
 
 # SQL Assignment
 
-This assignment is based on HR data stored in hr.sql file inside Assignment Data directory.
+This assignment is based on HR data stored in [hr.sql](https://raw.githubusercontent.com/commit-live-students/fsdse-rdbms-sql-assignment-3/master/data/hr.sql) file inside Assignment Data directory.
 
 1.	Write a query to display the names (first_name, last_name) using alias name “First Name", "Last Name"
 2.	Write a query to get unique department ID from employee table.
